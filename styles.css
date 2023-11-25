@@ -29,3 +29,25 @@ body {
   color: #f9faf8;
   font-weight: 700;
 }
+
+.hero {
+  padding: 100px 200px;
+  display: flex;
+  background-color: #1f2937;
+  gap: 24px;
+}
+
+.hero-left {
+  flex: 1;
+}
+
+.hero-img {
+  background-color: #e5e7eb63;
+  flex-shrink: 0;
+  flex-basis: 500px;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 230px;
+}

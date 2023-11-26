@@ -130,3 +130,32 @@ body {
   color: #1f2937;
   margin: 4px;
 }
+
+/* Quote section */
+
+.quote {
+  background-color: #e5e7eb;
+  padding: 100px 250px;
+  padding-top: 150px;
+}
+
+.quote-text,
+.quote-author {
+  margin: 0;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-author {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: end;
+  margin-right: 32px;
+  margin-top: 8px
+}

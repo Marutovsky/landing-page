@@ -3,6 +3,8 @@ Landing Page project from The Odin Project course
 
 Goal of this project is to make a landing page from given template.
 
+For sure it's not mobile devices ready, but it may be change in future.
+
 Website created by me can be found here:
 https://marutovsky.github.io/landing-page/
 
